@@ -1,4 +1,4 @@
-该repo为手写Spring核心源码，目前已实现的功能如下：
+本repo为手写部分Spring核心源码，目前已实现的功能如下：
 ![](doc/png/全类图.drawio.png)
 
 <!-- 手写Spring核心源码，目前已实现：
